@@ -85,7 +85,7 @@ const BARK_EXTENSION_IDS = [
     'cfjjjelgblfefpldkbpmldjakoohoohb', // Chrome Monitor debug
     'pifhhmbdoikllhpofdknanfcddaajpfk', // Chrome Watchdog debug
     'bnhgbicldegoglomikgnenecboibaepp', // Edge Monitor debug
-    'haklcjflhpomkecolmkjfllofddcigab', // Edige Watchdog debug
+    'haklcjflhpomkecolmkjfllofddcigab', // Edge Watchdog debug
 ];
 
 // reporter
